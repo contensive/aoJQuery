@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Collection name="jQuery-blockui-legacyCollection" guid="{A7AFC023-DF2A-4CB3-BD0F-FAA9DA521901}" system="Yes" updatable="Yes" blockNavigatorNode="No">
+<!-- All jQuery addons were moved to the jQuery collection to decrease maintenance. This collection is mocks the original to prevent installation errors in collections that depend on it -->
+</Collection>

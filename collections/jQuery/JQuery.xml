@@ -6134,5 +6134,5 @@ jQuery.extend( jQuery.easing,
 		<Styles></Styles>
 		<Scripting Language="" EntryPoint="" Timeout="5000"/>
 	</Addon>
-	<Resource name="jquery-ui.zip" type="www" path="" />
+	<Resource name="www-File-List-include-for-jquery-ui.zip" type="www" path="" />
 </Collection>
