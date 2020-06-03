@@ -19,7 +19,8 @@
 		<IncludeAddon name="JQuery" guid="{9C882078-0DAC-48E3-AD4B-CF2AA230DF80}"/>
 		<IsInline>No</IsInline>
 		<JavascriptOnLoad></JavascriptOnLoad>
-		<JavascriptInHead><![CDATA[jQuery.extend({
+		<JavascriptInHead><![CDATA[
+jQuery.extend({
     createUploadIframe: function(id, uri) {
 			//create frame
             var frameId = 'jUploadFrame' + id;
@@ -212,6 +213,16 @@
         return data;
     }
 })
+jQuery.extend({
+    handleError: function( s, xhr, status, e ) {
+        // If a local callback was specified, fire it
+        if ( s.error )
+            s.error( xhr, status, e );
+        // If we have some XML response text (e.g. from an AJAX call) then log it in the console
+        else if(xhr.responseText)
+            console.log(xhr.responseText);
+    }
+});
 ]]></JavascriptInHead>
 		<JavascriptBodyEnd></JavascriptBodyEnd>
 		<MetaDescription></MetaDescription>
