@@ -5,7 +5,6 @@
 	<Addon name="jQuery ajaxFileUpload" guid="{AC065D4E-7A81-4182-97ED-A936B093EDC7}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -249,7 +248,6 @@ jQuery.extend({
 <input type=file name="fileToUploadName" id="fileToUploadId">
 <div id="loading" style="display:none;">wait... loading</div>
 <div><a href="#" onclick="ajaxFileUploadSample(); return false">Upload Now</a></div>]]></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -328,7 +326,6 @@ jQuery.extend({
 	<Addon name="jQueryAjaxFileUploadTestFormHandler" guid="{2BA1C195-CCD8-48F2-9BFE-F73EEC91A67F}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -384,7 +381,6 @@ end function]]></Code>
 	<Addon name="jQuery ajaxForm" guid="{1DE8A882-5209-4571-8903-6A304CF7627A}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -1510,7 +1506,6 @@ function log() {
 	<Addon name="jQuery Corners" guid="{7EBCAE49-027E-4D7D-A3CA-300D6630012C}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -1786,7 +1781,6 @@ $.fn.corner.defaults = {
 	<Addon name="jQuery Easing" guid="{9AC76474-B221-424E-B06B-A55100BAF6E8}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2028,7 +2022,6 @@ jQuery.extend( jQuery.easing,
 	<Addon name="Enable ReadMore for the readmore class" guid="{1F09974F-0560-492E-8533-96C3B039B50C}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2067,7 +2060,6 @@ jQuery.extend( jQuery.easing,
 	<Addon name="jQuery ReadMore" guid="{3823B31B-D46B-4240-83B6-B29DC4C8567F}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2255,7 +2247,6 @@ jQuery.extend( jQuery.easing,
 	<Addon name="JQuery" guid="{9C882078-0DAC-48E3-AD4B-CF2AA230DF80}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2294,7 +2285,6 @@ jQuery.extend( jQuery.easing,
 	<Addon name="JQuery noConflict" guid="{E4F96F72-920F-4573-A08E-98069235C5D3}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2332,7 +2322,6 @@ jQuery.extend( jQuery.easing,
 	<Addon name="JQuery UI" guid="{840B9AEF-9470-4599-BD47-7EC0C9298614}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -2391,7 +2380,6 @@ this._delay(function(){n===this.counter&&this.refreshPositions(!s)})},_clear:fun
 	<Addon name="jQuery Form Validator" guid="{5B7E1009-920A-43E2-BB6E-0D03F0673BC5}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -4278,7 +4266,6 @@ $(document).ready(function(){
 	<Addon name="jQuery Validator-jQueryValidator.org" guid="{2B21C190-14D7-46CD-853D-7B5C0EEF1C30}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -5546,7 +5533,6 @@ $.format = $.validator.format;
 	<Addon name="jQuery BlockUI" guid="{F6087787-E01E-4E09-AC02-502D0387E048}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
@@ -6164,7 +6150,6 @@ font-size: 16px  ! important;
 	<Addon name="Fancy Box" guid="{24C2DBCF-3D84-44B6-A5F7-C2DE7EFCCE3D}" type="Add-on">
 		<Copy></Copy>
 		<CopyText></CopyText>
-		<ActiveXProgramID></ActiveXProgramID>
 		<DotNetClass></DotNetClass>
 		<ArgumentList></ArgumentList>
 		<AsAjax>No</AsAjax>
